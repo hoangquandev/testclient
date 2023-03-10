@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "title": "ARCHITECTURAL DESIGN",
+        "vititle": "THIẾT KẾ KIẾN TRÚC",
+        "description": "In The Modern Touch, architecture is one of the main platforms to turn the world into a better place. We believe that outstanding architectural design is a combination of efficient function and lasting beauty. Every day,  our  architects  blend exceptional design skills,  the ability to outstanding project management and creative vision to create buildings that meet clients' unique needs; at the same time to create lasting positive economic, social and environmental impacts.",
+        "videscription": "Tại The Modern Touch, kiến trúc là một trong những nền tảng chính để biến thế giới thành nơi tốt đẹp hơn. Chúng tôi tin rằng thiết kế kiến trúc vượt bậc chính là sự kết hợp giữa công năng hiệu quả và vẻ đẹp trường tồn. Mỗi ngày, các kiến trúc sư pha trộn những kỹ năng thiết kế đặc biệt, khả năng quản lý dự án vượt trội và tầm nhìn sáng tạo để tạo ra các công trình đáp ứng từng nhu cầu riêng biệt của khách hàng; đồng thời tạo ra tác động kinh tế, xã hội và môi trường tích cực lâu dài."
+    },
+    {
+        "id": "2",
+        "title": "INTERIOR DESIGN",
+        "vititle": "THIẾT KẾ NỘI THẤT",
+        "videscription": "Khi phát triển thiết kế nội thất, chúng tôi đảm bảo các chi tiết hoàn thiện bổ sung cho nhau, tạo ra không gian lôi cuốn ánh nhìn và cảm xúc của người sử dụng. Thiết kế nội thất có một trọng tâm khác với kiến trúc bên ngoài, đó chính là chúng bổ sung cho nhau. Sự chuyển tiếp từ các vật liệu hoàn thiện nội thất cho phép chúng tôi phát triển nhiều ý tưởng táo bạo giao hòa và thấm nhuần cảm giác vui vẻ đầy cá tính.",
+        "description": "When developing interior design, we ensure the complete details complement each other, creating a space that attracts the eyes and emotions of the user. Interior design has a different focus from exterior architecture, that is they complement each other. The transition from the interior finishing materials allows us to develop more daring ideas to harmonize and instill a sense of fun."
+    },
+    {
+        "id": "3",
+        "title1": "MASTER PLANNING",
+        "vititle1": "KHẢO SÁT",
+        "title2": "SURVEY & ANALYSIS",
+        "vititle2": "VÀ PHÂN TÍCH MẶT BẰNG",
+        "videscription": "Một mặt bằng tổng thể thành công được nhận định và chắt lọc từ những nghiên cứu phức tạp và tinh vi trong khuôn khổ văn hóa, xã hội, thể chất và kinh tế nhằm phát triển tổng thể dựa trên các bộ phận. Hơn nữa, mặt bằng tổng thể tuyệt vời tạo ra môi trường độc đáo, trong đó con người và thiên nhiên hòa hợp cùng nhau phát triển giữa bối cảnh thành thị hoặc nông thôn. Chúng tôi xem xét để đảm bảo rằng bất kỳ công trình hiện có nào đều sẽ được sử dụng hết tiềm năng. Khảo sát và phân tích giúp chúng tôi và khách hàng hiểu làm thế nào để sử dụng tốt nhất các cơ sở hiện có.",
+        "description": "A successful master planning is to identify and distill from complex and sophisticated research within the framework of cultural, social, physical, and economic overall development based on the parts. Moreover, using the excellent master planning to create a unique environment in which humans and nature develop together in harmony between urban or rural contexts. We review to ensure that any existing construction is being used to its full potential. Surveys and analysis help us and our clients understand how to make the best use of existing facilities."
+    },
+    {
+        "id": "4",
+        "title1": "PROJECT MANAGEMENT",
+        "vititle1": "QUẢN LÝ DỰ ÁN",
+        "title2": "& SUPERVISION CONSULTANT",
+        "vititle2": "VÀ TƯ VẤN GIÁM SÁT",
+        "videscription": "Chúng tôi giúp Chủ đầu tư quản lý và giám sát dự án ngay từ giai đoạn chào thầu, đấu thầu cho đến khi triển khai thi công, hoàn thành dự án đưa vào sử dụng/vận hành đảm bảo chất lượng, an toàn với tiến độ nhanh nhất và chi phí hợp lý, hiệu quả nhất cho dự án. Đồng thời đảm tính pháp lý xuyên suốt trong quá trình thực hiện. Ngoài ra đội ngũ nhân sự của chúng tôi đã từng quản lý/giám sát các dự án khách sạn, resort 5 sao có kinh nghiệm làm việc với các tập đoàn quản lý khách 5 sạn như: Hilton, Accor, Movenpick...",
+        "description": "We help the Investor manage and supervise the project right from the beginning - stage of bidding until implementations, completion of the project, and putting it into use/operate to ensure quality, safety with the fastest progress and the most reasonable cost, effectively for the project.At the same time, ensure the legality throughout the implementation of the project. In addition, we have a team of staff who have managed/su-pervised 5-star hotel and resort projects with experience working with hotel management groups such as: Hilton, Accor, Movenpick..."
+    },
+    {
+        "id": "5",
+        "title": "HUMAN RESOURCE SUPPLY",
+        "vititle": "CUNG CẤP NGUỒN NHÂN LỰC",
+        "videscription": "Chúng tôi cung cấp nhân sự chất lượng trong ngành kiến trúc nội thất, linh hoạt về thời gian, đảm bảo công việc thực hiện hiệu quả, giúp tiết kiệm chi phí, thời gian và nguồn lực cho các doanh nghiệp.",
+        "description": "We offer qualitied personnel in the field of interior architecture  withsome features such as being flexible on time, ensuring the effective implementation, and saving costs, time and resources for businesses."
+    },
+    {
+        "id": "6",
+        "title": "QUALITY MANAGEMENT",
+        "vititle": "QUẢN LÝ CHẤT LƯỢNG",
+        "videscription": "Chúng tôi kiểm tra chất lượng các mặt hàng theo quy trình và hệ thống chuẩn, đảm bảo đầy đủ các tiêu chí kiểm hàng, xử lý lỗi và đưa ra hướng giải quyết tốt nhất nhằm đáp ứng nhu cầu tối đa của khách hàng một cách hiệu quả.",
+        "description": "We inspect the quality of the items according to the standard process and system, ensure full inspection criteria, handle errors and of fer the best solution to meet the needs of clients in the most ef ficient way"
+    }
+]

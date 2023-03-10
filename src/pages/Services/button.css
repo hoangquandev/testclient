@@ -1,0 +1,56 @@
+.button-prev {
+    /* background-color: blue; */
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 1000;
+    position: absolute;
+    top: 50%;
+    left: 40px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+
+}
+
+.button-prev:hover {
+    fill: #fe5600;
+    stroke: #fe5600;
+}
+
+.button-next:hover {
+    fill: #fe5600;
+    stroke: #fe5600;
+}
+
+.button-next {
+    /* background-color: blue; */
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 1000;
+    position: absolute;
+    top: 50%;
+    right: -10px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+@media only screen and (max-width: 640px) {
+    .button-prev {
+        display: none;
+    }
+
+    .button-next {
+        display: none;
+    }
+}

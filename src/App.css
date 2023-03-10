@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'TimesNewRomanBoldItalic';
+  src: local('TimesNewRoman'), url(./assets/fonts/Times\ New\ Roman/TimesNewRomanBoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('TimesNewRoman'), url(./assets/fonts/SVN-GOTHAM/SVN-Gotham\ Black.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'TimesNewRomanItalic';
+  src: local('TimesNewRoman'), url(./assets/fonts/Times\ New\ Roman/TimesNewRomanItalic.ttf) format('truetype');
+}
+
+#root {
+  font-family: 'Times New Roman';
+}
+
+li {
+  list-style: none;
+  font-style: italic;
+  line-height: 24px;
+}
+
+.fadeinUp {
+  -webkit-animation: fadeInUp 500ms ease-in-out;
+  /* Chrome, Safari, Opera */
+  animation: fadeInUp 500ms ease-in-out;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(40px);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+
+/* Standard syntax */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.slick-slide div {
+  outline: none;
+}
